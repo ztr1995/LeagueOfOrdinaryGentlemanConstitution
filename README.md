@@ -150,16 +150,15 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a League Manager vote. In the event of a conflict of interest, biased LMs cannot vote and a different owner would take the baised LM's responsibility for the trade. The order of precedent to fill the shoes of a LM are listed below
 1. David
-2. Jacques
-3. Brett
-4. Chris
+2. Brett
+3. Chris
+4. Jacques
 5. Tyler
 6. Sam
 7. Tim
 - During the offseason trading is still allowed.
-- Trade deadline begins as soon as the first game of week 12 starts.
+- Trade deadline is the start of the first game in week 12.
 - Draft picks up to 3 years in the future are tradable. Currently 2019, 2020, 2021 picks may be traded. After the draft 2022 picks will become available to trade.
-- Teams must pay dues for any year they trade draft picks in. **This is not currently applicable, but might be in the future**.
 
 <br><br>
 
@@ -395,4 +394,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 
 ## __Section X - Change History__ ##
 1/12/2019 - Document Created and Filled with Current League Rules.
+1/22/2019 - Update per review from league managers
 
