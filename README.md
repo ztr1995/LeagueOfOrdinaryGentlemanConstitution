@@ -393,6 +393,7 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 <br><br>
 
 ## __Section X - Change History__ ##
-1/12/2019 - Document Created and Filled with Current League Rules.
-1/22/2019 - Update per review from league managers
+- 1/12/2019 - Document Created and Filled with Current League Rules.
+- 1/22/2019 - Update per review from league managers.
+- 1/28/2019 - More updates per review from league managers. 
 
