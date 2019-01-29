@@ -94,20 +94,20 @@ The Co-Commissioners will have all site powers the league commissioner has so th
 The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+The three league managers are the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commisioner will always have the tiebreaking vote.
 <br>
 ### Rule Changes ###
 When voting, owners have the options to ALLOW, DECLINE, or ABSTAIN. If an owner does not vote then their vote will be assumed based on whether the vote is during the season.
 
 ##### During the off season #####
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a 2/3 majority (in a tie the commissioner has the tiebreaking vote) of non-abstained votes. If an owner does not vote by the deadline set by the league managers then their vote will be counted as **ABSTAIN**.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a 2/3 majority (in a tie the commissioner has the tiebreaking vote) of non-abstained votes (Minimum of 6 total votes). If an owner does not vote by the deadline set by the league managers then their vote will be counted as **ABSTAIN**.
 <br>
 
 ##### During the season #####  
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a 100% vote. If an owner does not vote by the deadline set by the league managers then their vote will counted as **ALLOW**.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a 100% vote (Minimum of 7 total votes). If an owner does not vote by the deadline set by the league managers then their vote will counted as **ALLOW**.
 <br>
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and if egregious enough then the guilty teams will have to pay a draft pick penalty decided by the league managers. The decided upon draft picks will be forfeited and voided.**
+**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and if egregious enough then the guilty teams will have to pay a draft pick penalty decided by the league managers. The decided upon draft picks will be forfeited and voided. NOTE: There is a low chance we enforce this penalty, but if it is truly egregious/consistent enough then we will enforce a penalty.**
 
 <br><br>
 
