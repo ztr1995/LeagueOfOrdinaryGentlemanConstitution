@@ -129,8 +129,8 @@ In order to change an existing rule, add a new rule, or change a scoring setting
    CB | 1 | No Limit
    S | 1 | No Limit
    DB | 1 | No Limit
-   K | 1 | 2
-   P | 3 | 2
+   K | 1 | 3
+   P | 1 | 2
    BE | 20 | N/A
    IR | 4 | N/A
 
@@ -309,7 +309,6 @@ The lottery will be done by selecting the picks starting from 1st overall up to 
 - There will be 6 rounds of the rookie draft.
 - The rookie draft will take on a date after the NFL Draft and before the Regular Season.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
