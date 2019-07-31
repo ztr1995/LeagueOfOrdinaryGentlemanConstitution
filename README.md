@@ -334,43 +334,43 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     </tr>
     <tr>
         <td>10th Place</td>
-        <td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>8</td><td>5</td><td>9</td>
+        <td>9</td><td>8</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>9</td><td>5</td><td>8</td>
     </tr>
     <tr>
         <td>9th Place</td>
-        <td>10</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>8</td><td>7</td><td>6</td><td>10</td>
+        <td>10</td><td>7</td><td>6</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>8</td><td>10</td><td>6</td><td>7</td>
     </tr>
     <tr>
         <td>8th Place</td>
-        <td>7</td><td>10</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>6</td><td>9</td><td>10</td><td>7</td><td>4</td>
+        <td>7</td><td>10</td><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>6</td><td>9</td><td>4</td><td>7</td><td>10</td>
     </tr>
     <tr>
         <td>7th Place</td>
-        <td>8</td><td>9</td><td>10</td><td>3</td><td>2</td><td>1</td><td>6</td><td>4</td><td>5</td><td>9</td><td>8</td><td>3</td>
+        <td>8</td><td>9</td><td>10</td><td>3</td><td>2</td><td>1</td><td>6</td><td>4</td><td>5</td><td>3</td><td>8</td><td>9</td>
     </tr>
     <tr>
         <td>6th Place</td>
-        <td>3</td><td>2</td><td>9</td><td>10</td><td>1</td><td>5</td><td>7</td><td>8</td><td>4</td><td>5</td><td>9</td><td>2</td>
+        <td>3</td><td>2</td><td>9</td><td>10</td><td>1</td><td>5</td><td>7</td><td>8</td><td>4</td><td>2</td><td>9</td><td>5</td>
     </tr>
     <tr>
         <td>5th Place</td>
-        <td>2</td><td>1</td><td>8</td><td>9</td><td>10</td><td>6</td><td>4</td><td>3</td><td>7</td><td>6</td><td>10</td><td>1</td>
+        <td>2</td><td>1</td><td>8</td><td>9</td><td>10</td><td>6</td><td>4</td><td>3</td><td>7</td><td>1</td><td>10</td><td>6</td>
     </tr>
     <tr>
         <td>4th Place</td>
-        <td>1</td><td>3</td><td>2</td><td>8</td><td>9</td><td>10</td><td>5</td><td>7</td><td>6</td><td>3</td><td>2</td><td>8</td>
+        <td>1</td><td>3</td><td>2</td><td>8</td><td>9</td><td>10</td><td>5</td><td>7</td><td>6</td><td>8</td><td>2</td><td>3</td>
     </tr>
     <tr>
         <td>3rd Place</td>
-        <td>6</td><td>4</td><td>1</td><td>7</td><td>8</td><td>9</td><td>10</td><td>5</td><td>2</td><td>4</td><td>1</td><td>7</td>
+        <td>6</td><td>4</td><td>1</td><td>7</td><td>8</td><td>9</td><td>10</td><td>5</td><td>2</td><td>7</td><td>1</td><td>4</td>
     </tr>
     <tr>
         <td>2nd Place</td>
-        <td>5</td><td>6</td><td>4</td><td>1</td><td>7</td><td>8</td><td>9</td><td>10</td><td>3</td><td>1</td><td>4</td><td>6</td>
+        <td>5</td><td>6</td><td>4</td><td>1</td><td>7</td><td>8</td><td>9</td><td>10</td><td>3</td><td>6</td><td>4</td><td>1</td>
     </tr>
     <tr>
         <td>1st Place</td>
-        <td>4</td><td>5</td><td>3</td><td>2</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>2</td><td>3</td><td>5</td>
+        <td>4</td><td>5</td><td>3</td><td>2</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>5</td><td>3</td><td>2</td>
     </tr>
 </table>
 
@@ -399,4 +399,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 - 1/22/2019 - Update per review from league managers.
 - 1/28/2019 - More updates per review from league managers. 
 - 6/23/2019 - 3rd overall gets 7th pick. 4th overall get 8th pick
+- 7/31/2019 - Swap week 10 and week 12 in the schedule for a more climatic finish.
 
