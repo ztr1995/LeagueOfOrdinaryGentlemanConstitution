@@ -379,10 +379,15 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 Notes for 2019 schedule. For some reason we could not manually update the week 1 head to head matchup, so a few tweeks to the schedule were made to avoid playing a person 3 times, never playing someone, and playing someone back to back.
 
 The auto-generated week 1 schedule is 
+<br>
 1 vs 3
+<br>
 2 vs 4
+<br>
 5 vs 7
+<br>
 6 vs 8
+<br>
 9 vs 10
 
 - In week three; 1 will play 4 and 2 will play 3. The rest is as depicted above. The reason for this change is because of the week 1 matchup, 2 and 4 were going to play 3 times and 3 and 1 were going to play 3 times. This evens it back to 2 each.
@@ -414,4 +419,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 - 1/28/2019 - More updates per review from league managers. 
 - 6/23/2019 - 3rd overall gets 7th pick. 4th overall get 8th pick
 - 7/31/2019 - Swap week 10 and week 12 in the schedule for a more climatic finish.
+- 8/1/2019 - Add notes on why the schedule differs from the documented schedule.
 
