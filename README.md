@@ -377,7 +377,6 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 <br><br>
 
 #### Notes for 2019 Schedule ####
-<br>
 For some reason we could not manually update the week 1 head to head matchup, so a few tweeks to the schedule were made to avoid playing a person 3 times, never playing someone, and playing someone back to back.
 
 The auto-generated week 1 schedule is 
