@@ -346,37 +346,39 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     </tr>
     <tr>
         <td>7th Place</td>
-        <td>8</td><td>9</td><td>10</td><td>3</td><td>2</td><td>1</td><td>6</td><td>4</td><td>5</td><td><strike>3</strike> 1</td><td>8</td><td>9</td>
+        <td>8</td><td>9</td><td>10</td><td>3</td><td>2</td><td>1</td><td>6</td><td>4</td><td>5</td><td><strike>3</strike>    1</td><td>8</td><td>9</td>
     </tr>
     <tr>
         <td>6th Place</td>
-        <td>3</td><td>2</td><td>9</td><td>10</td><td>1</td><td>5</td><td>7</td><td>8</td><td>4</td><td><strike>2</strike> 3</td><td>9</td><td>5</td>
+        <td>3</td><td>2</td><td>9</td><td>10</td><td>1</td><td>5</td><td>7</td><td>8</td><td>4</td><td><strike>2</strike>    3</td><td>9</td><td>5</td>
     </tr>
     <tr>
         <td>5th Place</td>
-        <td>2</td><td>1</td><td>8</td><td>9</td><td>10</td><td>6</td><td>4</td><td>3</td><td>7</td><td><strike>1</strike> 2</td><td>10</td><td>6</td>
+        <td>2</td><td>1</td><td>8</td><td>9</td><td>10</td><td>6</td><td>4</td><td>3</td><td>7</td><td><strike>1</strike>    2</td><td>10</td><td>6</td>
     </tr>
     <tr>
         <td>4th Place</td>
-        <td>1</td><td>3</td><td><strike>2</strike> 1</td><td>8</td><td>9</td><td>10</td><td>5</td><td>7</td><td>6</td><td>8</td><td>2</td><td>3</td>
+        <td>1</td><td>3</td><td><strike>2</strike>    1</td><td>8</td><td>9</td><td>10</td><td>5</td><td>7</td><td>6</td><td>8</td><td>2</td><td>3</td>
     </tr>
     <tr>
         <td>3rd Place</td>
-        <td>6</td><td>4</td><td><strike>1</strike> 2</td><td>7</td><td>8</td><td>9</td><td>10</td><td>5</td><td>2</td><td><strike>7</strike> 6</td><td>1</td><td>4</td>
+        <td>6</td><td>4</td><td><strike>1</strike>    2</td><td>7</td><td>8</td><td>9</td><td>10</td><td>5</td><td>2</td><td><strike>7</strike>    6</td><td>1</td><td>4</td>
     </tr>
     <tr>
         <td>2nd Place</td>
-        <td>5</td><td>6</td><td><strike>4</strike> 3</td><td>1</td><td>7</td><td>8</td><td>9</td><td>10</td><td>3</td><td><strike>6</strike> 5</td><td>4</td><td>1</td>
+        <td>5</td><td>6</td><td><strike>4</strike>    3</td><td>1</td><td>7</td><td>8</td><td>9</td><td>10</td><td>3</td><td><strike>6</strike>    5</td><td>4</td><td>1</td>
     </tr>
     <tr>
         <td>1st Place</td>
-        <td>4</td><td>5</td><td><strike>3</strike> 4</td><td>2</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td><strike>5</strike> 7</td><td>3</td><td>2</td>
+        <td>4</td><td>5</td><td><strike>3</strike>    4</td><td>2</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td><strike>5</strike>    7</td><td>3</td><td>2</td>
     </tr>
 </table>
 
 <br><br>
 
-Notes for 2019 schedule. For some reason we could not manually update the week 1 head to head matchup, so a few tweeks to the schedule were made to avoid playing a person 3 times, never playing someone, and playing someone back to back.
+####Notes for 2019 Schedule####
+<br>
+For some reason we could not manually update the week 1 head to head matchup, so a few tweeks to the schedule were made to avoid playing a person 3 times, never playing someone, and playing someone back to back.
 
 The auto-generated week 1 schedule is 
 <br>
