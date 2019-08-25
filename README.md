@@ -79,8 +79,8 @@ __Brett Salamone__
 
 <br>
 
-__Tim Riemer__
-> (713) 408-3558 
+__Enoch Shin__
+> (832) 277-2843 
 
 <br>
 
@@ -421,4 +421,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 - 6/23/2019 - 3rd overall gets 7th pick. 4th overall get 8th pick
 - 7/31/2019 - Swap week 10 and week 12 in the schedule for a more climatic finish.
 - 8/1/2019 - Add notes on why the schedule differs from the documented schedule.
+- 8/25/2019 - Change Tim's contact info to Enoch's
 
