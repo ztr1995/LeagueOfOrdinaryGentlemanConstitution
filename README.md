@@ -166,7 +166,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 Practice Squads are housed [here](https://drive.google.com/open?id=1rtIk9cXexWhWeFEbZAY-yNwJ-CIxAqTaQqTnnBez7sM).
 
 ### Eligibility ###
-A player is eligible to be on a practice squad until the first game of their 4th season. In any event causing a player to NOT have a game week 1, then they would be dropped at the conclusion of the final game week 1.
+A player is eligible to be on a practice squad until the first game of the 4th season since the season that ESPN recognizes as their first (looking at the player's "stats" page). In any event causing a player to NOT have a game week 1, then they would be dropped at the conclusion of the final NFL game week 1.
 
 ### Call Ups/Down ###
 To submit a claim, message your transaction in the Practice squad and IR GroupMe. During the season, practice squads will only be open after the weeks described in the table below and the following week. Players can be called up/sent down after rosters unlock Tuesday morning of weeks (3, 6, 9 and 12) until the players' individually scheduled game the next week.
@@ -423,4 +423,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 - 8/1/2019 - Add notes on why the schedule differs from the documented schedule.
 - 8/25/2019 - Change Tim's contact info to Enoch's
 - 9/1/2019 - Fix Season Ending IR link and add condition to practice squad eligibility
+- 10/16/19 - Add clarity to the Practice Squad Eligibility
 
