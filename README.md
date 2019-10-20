@@ -158,7 +158,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 7. Tim
 - During the offseason trading is still allowed.
 - Trade deadline is the start of the first game in week 12.
-- Draft picks up to 3 years in the future are tradable. Currently 2019, 2020, 2021 picks may be traded. After the draft 2022 picks will become available to trade.
+- Draft picks up to 3 years in the future are tradable. Currently 2020, 2021, 2022 picks may be traded.
 
 <br><br>
 
@@ -424,4 +424,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 - 8/25/2019 - Change Tim's contact info to Enoch's
 - 9/1/2019 - Fix Season Ending IR link and add condition to practice squad eligibility
 - 10/16/19 - Add clarity to the Practice Squad Eligibility
+- 10/18/19 - Update the draft picks which are available for trade
 
