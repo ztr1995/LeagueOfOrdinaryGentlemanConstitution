@@ -410,7 +410,7 @@ The auto-generated week 1 schedule is
 <br><br>
 
 ## __Section IX - Scoring__ ##
-Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settings?leagueId=6504)
+Scoring Settings are located [here](https://fantasy.espn.com/football/league/settings?leagueId=6504&view=scoring)
 
 <br><br>
 
@@ -425,4 +425,5 @@ Scoring Settings are located [here](http://games.espn.com/ffl/leaguesetup/settin
 - 9/1/2019 - Fix Season Ending IR link and add condition to practice squad eligibility
 - 10/16/19 - Add clarity to the Practice Squad Eligibility
 - 10/18/19 - Update the draft picks which are available for trade
+- 10/20/19 - Fix scoring settings link
 
