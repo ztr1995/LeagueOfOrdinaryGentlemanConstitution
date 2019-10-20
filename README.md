@@ -155,7 +155,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 4. Jacques
 5. Tyler
 6. Sam
-7. Tim
+7. Enoch
 - During the offseason trading is still allowed.
 - Trade deadline is the start of the first game in week 12.
 - Draft picks up to 3 years in the future are tradable. Currently 2020, 2021, 2022 picks may be traded.
