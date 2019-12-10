@@ -205,12 +205,15 @@ Players that are placed on season-ending IR cannot be added back to an active ro
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned through a lottery for the first round. The Lottery is detailed below.
-- Pick 7 = 3rd place finish
-- Pick 8 = 4th place finish
-- Pick 9 = 2nd place finish
-- Pick 10 = 1st place finish
-- All picks will be assigned in inverse order of the regular season standings for rounds 2-6.
+- Round 1
+-- Picks 1-6 will be assigned through a lottery for the first round. The Lottery is detailed below.
+-- Pick 7 = 3rd place finish
+-- Pick 8 = 4th place finish
+-- Pick 9 = 2nd place finish
+-- Pick 10 = 1st place finish
+- Rounds 2-6
+-- 5th-10th place - All picks will be assigned in inverse order of the regular season standings for rounds 2-6.
+-- 1st-4th place - All picks will be assigned in the same order described in Round 1.
 
 ### Lottery ###
 The lottery will be done by selecting the picks starting from 1st overall up to the 6th overall pick. An owner cannot receive a pick 3 spots lower than their regular season finish, See below. X's represent picks that are possible for owners to get, -'s represent picks owners are protected from getting.
@@ -426,4 +429,5 @@ Scoring Settings are located [here](https://fantasy.espn.com/football/league/set
 - 10/16/19 - Add clarity to the Practice Squad Eligibility
 - 10/18/19 - Update the draft picks which are available for trade
 - 10/20/19 - Fix scoring settings link
+- 12/10/19 - Clarify pick order
 
