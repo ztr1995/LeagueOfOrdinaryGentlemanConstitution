@@ -144,7 +144,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 - There is a two Day waiting period for waivers to clear
 - Free agency locks at the keeper deadline.
 
-**FYI, it is almost impossible for the LMs to keep up with every transaction that happens (specifically the first wave). It is YOUR responsibility to make sure the players you pick up aren't on someone else's p squad/IR. If you manage to play a player that someone else owns, then the players' points will be removed from your score and he will be removed from your team... and yes, if the player got negative points then the points for the player would be set to 0.**
+**FYI, it is almost impossible for the LMs to keep up with every transaction that happens (specifically the first wave). It is YOUR responsibility to make sure the players you pick up aren't on a practice squad or season ending IR. If you manage to play a player that is on a practice squad or season ending ir, then the players' points will be removed from your score and he will be removed from your active roster... and yes, if the player got negative points then the points for the player would be set to 0.**
 
 
 ### Trades ###
@@ -430,4 +430,5 @@ Scoring Settings are located [here](https://fantasy.espn.com/football/league/set
 - 10/18/19 - Update the draft picks which are available for trade
 - 10/20/19 - Fix scoring settings link
 - 12/10/19 - Clarify pick order
+- 12/18/19 - Clarify the consequence for starting an inelligble player
 
